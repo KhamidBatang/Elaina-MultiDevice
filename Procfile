@@ -1,1 +1,1 @@
-worker: node index.js
+worker: npm i github:adiwajshing/Bailey && node .
